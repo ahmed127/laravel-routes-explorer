@@ -3,7 +3,7 @@
 namespace InfyOm\RoutesExplorer;
 
 use Illuminate\Support\ServiceProvider;
-use InfyOm\RoutesExplorer\MIddleware\RoutesExplorerMiddleware;
+use InfyOm\RoutesExplorer\Middleware\RoutesExplorerMiddleware;
 
 class RoutesExplorerServiceProvider extends ServiceProvider
 {

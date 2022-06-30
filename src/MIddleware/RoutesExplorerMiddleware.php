@@ -1,6 +1,6 @@
 <?php
 
-namespace InfyOm\RoutesExplorer\MIddleware;
+namespace InfyOm\RoutesExplorer\Middleware;
 
 use Closure;
 use InfyOm\RoutesExplorer\DataCollectors\ApiCallsCountCollector;
